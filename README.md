@@ -24,8 +24,8 @@ The goal of this project was to practice **HTML**, **CSS**, **Flexbox**, and bas
 ---
 
 ## How to run the project
--Clone the repository
--Open 'index.html' in any browser
+- Clone the repository
+- Open 'index.html' in any browser
 
 ---
 
@@ -49,8 +49,8 @@ The goal of this project was to practice **HTML**, **CSS**, **Flexbox**, and bas
 ---
 
 ##Future Improvements
--Add JS for intreactive features
--My styles like CSS Grid
+- Add JS for intreactive features
+- My styles like CSS Grid
 
 ---
 
