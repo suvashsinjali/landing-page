@@ -4,7 +4,7 @@ This is a landing page project built as part of **The Odin Project - Foundations
 The goal of this project was to practice **HTML**, **CSS**, **Flexbox**, and basic layout design by recreating a modern style landing page.
 
 
-## 🚀 Features
+## Features
 
 - Responsive layout using **Flexbox**
 - Clean and modern travel-themed design
@@ -16,7 +16,7 @@ The goal of this project was to practice **HTML**, **CSS**, **Flexbox**, and bas
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 - HTML5 
 - CSS3
 - Flexbox
@@ -26,17 +26,20 @@ The goal of this project was to practice **HTML**, **CSS**, **Flexbox**, and bas
 ## How to run the project
 - Clone the repository
 - Open 'index.html' in any browser
+- or
+- Copy the below URL link and open in any browser
+**Live Demo:** [https://suvashsinjali.github.io/landing-page/]
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 ### Explore Nepal-Landing Page
 ![Screenshot-1](screenshots/landing-page-1.png)
 ![Screenshot-2](screenshots/landing-page-2.png)
 
 ---
 
-## 💡 What I Learned
+## What I Learned
 
 - Structuring a complete webpage
 - Using **Flexbox** for layout and alignment
@@ -55,12 +58,12 @@ The goal of this project was to practice **HTML**, **CSS**, **Flexbox**, and bas
 ---
 
 ## Aknowledgements
--Images
+- Images
 1. College of Attractions from Himalayan Dreams (https://www.himalayan-dreams.com/)
 2. Kathmandu Valley from Pexels by Mehmet Turget Kikgoz
 3. Everest Base Camp from Unsplash by Dylan Shaw
 4. Upper Mustang from Pexels by Sagar Gnawali
 5. Lumbini from Pexabay by Jessica Bleu Elephants
 
--Icons
+- Icons
 1. From Explore Nepal (Viber)
